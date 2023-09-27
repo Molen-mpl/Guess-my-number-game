@@ -7,3 +7,5 @@ The rules are simple, every time you start the game or reset it by clicking on t
 The idea is to guess the number in the less amount of steps as possible. Every time you submit a number, a hint on the right appears "too high" or "too low" in case it is not the correct one =).
 
 Your score, starting in 20, goes down by 1 every time you don't guess the number. Once you guess the number, your score is recorded on the highscore, and is updated in case your new score is bigger than the last round.
+
+Game deployed: https://chimerical-seahorse-481f5c.netlify.app/ 
